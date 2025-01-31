@@ -1,0 +1,19 @@
+RandomForestClassifier Model Summary
+Accuracy: 0.9503654080389768
+Confusion Matrix:
+[[  38   89   11    0]
+ [  21 4293   66    0]
+ [   2  137  411    0]
+ [   0    0    0 1500]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.28      0.38       138
+           1       0.95      0.98      0.96      4380
+           2       0.84      0.75      0.79       550
+           3       1.00      1.00      1.00      1500
+
+    accuracy                           0.95      6568
+   macro avg       0.85      0.75      0.78      6568
+weighted avg       0.95      0.95      0.95      6568
+

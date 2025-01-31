@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/salma/PycharmProjects/MobiliteMel/mlruns/118521442832754302/bf763598d5134164b6035946c899e983/artifacts
+end_time: 1738287205552
+entry_point_name: ''
+experiment_id: '118521442832754302'
+lifecycle_stage: active
+run_id: bf763598d5134164b6035946c899e983
+run_name: Logistic Regression Model
+run_uuid: bf763598d5134164b6035946c899e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738287196830
+status: 3
+tags: []
+user_id: salma

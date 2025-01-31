@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/salma/PycharmProjects/MobiliteMel/mlruns/0/d599473e5b224dad90f9137e569eb268/artifacts
+end_time: 1737944671156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d599473e5b224dad90f9137e569eb268
+run_name: spiffy-sponge-32
+run_uuid: d599473e5b224dad90f9137e569eb268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737944662429
+status: 3
+tags: []
+user_id: salma

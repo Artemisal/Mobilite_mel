@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mobilitemel"
+version = "0.1.0"
+description = ""
+authors = ["SALMA <hrouma.salma@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mlflow = "^2.20.0"
+fastapi = {extras = ["standard"], version = "^0.115.7"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
